@@ -11,7 +11,7 @@ opencv-python>=4.5.0
 Pillow>=8.0.0
 
 # 性能分析
-perfetto-python-sdk>=0.1.0
+perfetto>=0.1.0
 
 # 其他工具
 requests>=2.26.0
