@@ -1,0 +1,14 @@
+# UI相关依赖
+PyQt5>=5.15.0
+
+# 数据处理和可视化
+pandas>=1.3.0
+matplotlib>=3.4.0
+numpy>=1.20.0
+
+# 图像处理
+opencv-python>=4.5.0
+Pillow>=8.0.0
+
+# 其他工具
+requests>=2.26.0
